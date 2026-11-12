@@ -1,0 +1,14 @@
+**
+!package.json
+!pnpm-lock.yaml
+!pnpm-workspace.yaml
+!.npmrc
+!tsconfig.json
+!tsconfig.build.json
+!nest-cli.json
+!src/
+!src/**
+!container/
+!container/**
+!Dockerfile
+!.dockerignore

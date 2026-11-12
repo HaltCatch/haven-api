@@ -1,0 +1,10 @@
+strictPeerDependencies: true
+allowBuilds:
+  better-sqlite3: true
+  esbuild: true
+  '@nestjs/core': false
+  '@scarf/scarf': false
+minimumReleaseAgeExclude:
+  - '@haven/runtime@0.1.0-dev.30'
+  - '@haven/schema@0.1.0-dev.30'
+  - '@haven/schema@0.1.0-dev.18 || 0.1.0-dev.19 || 0.1.0-dev.20 || 0.1.0-dev.21 || 0.1.0-dev.22 || 0.1.0-dev.23 || 0.1.0-dev.24 || 0.1.0-dev.25 || 0.1.0-dev.26 || 0.1.0-dev.27 || 0.1.0-dev.28 || 0.1.0-dev.29'

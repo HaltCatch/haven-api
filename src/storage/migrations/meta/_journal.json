@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793944158876,
+      "tag": "0000_model_lifecycle",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1794240331879,
+      "tag": "0001_candidate_workspaces",
+      "breakpoints": true
+    }
+  ]
+}
